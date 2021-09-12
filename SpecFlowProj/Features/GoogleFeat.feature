@@ -1,4 +1,4 @@
-﻿Feature: GoogleFeature
+﻿Feature: GoogleSearch
 Assessment
 
 @google
